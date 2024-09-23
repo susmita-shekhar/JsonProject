@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T11:13:53 EDT" name="Default suite" finished-at="2024-09-23T11:14:41 EDT" duration-ms="47685">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T11:13:53 EDT" name="Default test" finished-at="2024-09-23T11:14:41 EDT" duration-ms="47685">
+      <class name="tests.AddCustomerTestDefinition">
+        <test-method is-config="true" signature="readJson()[pri:0, instance:tests.AddCustomerTestDefinition@7db12bb6]" started-at="2024-09-23T11:13:53 EDT" name="readJson" finished-at="2024-09-23T11:13:53 EDT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJson -->
+        <test-method signature="enterCustomerDetails()[pri:0, instance:tests.AddCustomerTestDefinition@7db12bb6]" started-at="2024-09-23T11:13:53 EDT" name="enterCustomerDetails" finished-at="2024-09-23T11:14:41 EDT" duration-ms="47582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCustomerDetails -->
+      </class> <!-- tests.AddCustomerTestDefinition -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
